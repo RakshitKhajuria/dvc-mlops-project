@@ -9,3 +9,5 @@ pyyaml
 scikit-learn
 lxml
 botocore
+
+-e .
