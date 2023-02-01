@@ -1,3 +1,6 @@
+![dvc-mlops-project](https://socialify.git.ci/Ryzxxl/dvc-mlops-project/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+
+
 # dvc-MLops-Project
 A simple demo DVC package to automate the ML pipelines in Data Science Lifecycle.
 
