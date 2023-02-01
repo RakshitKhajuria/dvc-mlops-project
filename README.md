@@ -1,8 +1,13 @@
-![dvc-mlops-project](https://socialify.git.ci/Ryzxxl/dvc-mlops-project/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+![DVC-MLOps-Project](https://socialify.git.ci/Ryzxxl/dvc-mlops-project/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 
-# dvc-MLops-Project
+# DVC-MLops-Project
 A simple demo DVC package to automate the ML pipelines in Data Science Lifecycle.
+
+# Data source
+
+http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
+
 
 # STEPS:
 ## STEP 01: Create a empty remote repository
