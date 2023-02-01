@@ -2,7 +2,15 @@
 
 
 # DVC-MLops-Project
-A simple demo DVC package to automate the ML pipelines in Data Science Lifecycle.
+A simple demo DVC package to automate the ML pipelines and make ML models shareable and reproducible.
+
+# Workflow
+
+![workflow](https://user-images.githubusercontent.com/71117423/215976308-39b97527-602b-4ab9-b995-86e6f8474560.png)
+
+# DVC Dag
+
+![dvc dag pipeline](https://user-images.githubusercontent.com/71117423/215976386-be1b4cd1-f053-466e-96e1-0710827b5b2f.png)
 
 # Data source
 
